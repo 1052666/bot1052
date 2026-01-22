@@ -1,0 +1,4 @@
+openai>=1.0.0
+requests>=2.30.0
+# 注意：wxautox4_wechatbot 将由 run.py 脚本自动从 ./libs 目录安装
+# 或者您可以手动运行: pip install ./libs/wxautox4_wechatbot-xxxx.whl
